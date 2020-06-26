@@ -13,7 +13,7 @@ namespace split_big_data
         {
             // The code provided will print ‘Hello World’ to the console.
             // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World new!");
             
             string dir = @"D:\01DELFI\DELFI\Dataiku\new-york-city-taxi-fare-prediction\train.csv";
             string dir_out = @"D:\01DELFI\DELFI\Dataiku\new-york-city-taxi-fare-prediction\train_data_split\";
